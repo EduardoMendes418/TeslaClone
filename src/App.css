@@ -1,0 +1,5 @@
+.app__itensContainer {
+  scroll-snap-type: y mandatory;
+  overflow: auto;
+  height: auto;
+}
